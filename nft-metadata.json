@@ -1,0 +1,18 @@
+{
+    "attributes" : [ {
+    "trait_type" : "Origin",
+    "value" : "El Fashar area of Sudan"
+    }, {
+    "trait_type" : "Offsetting Carbon Credits",
+    "value" : "reducing Co2 production"
+    }, {
+    "trait_type" : "Most Impactful",
+    "value" : "helping improve the health of women and children in Darfur"
+    }, {
+    "trait_type" : "Details",
+    "value" : "Low-smoke stoves prevent indoor air pollution, which kills more people every year than malaria, HIV/AIDS, and tuberculosis combined"
+    } ],
+    "description" : "EcoAct's Sudan Low Smoke Cookstove Project",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmcvtJJS1jvgAp9Sss6rHJXAXmfr14p3j7qkeQWGuydDw4",
+    "name" : "Carbon Credit"
+}
